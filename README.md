@@ -11,7 +11,7 @@ This library uses precompiled Razor views provided by the [Razor SDK](https://do
 
 |                   | .NET 6 & Above | .NET 10 & Above |
 | ----------------- | -------------- | --------------- |
-| Preferred Version | v2.1.0         | 3.0.0           |
+| Preferred Version | v2.1.0         | 3.1.0           |
 | Console           | &check;        | &check;         |
 | Api               | &check;        | &check;         |
 | Mvc               | &check;        | &check;         |
@@ -65,7 +65,7 @@ dotnet add package Razor.Templating.Core
 ```
 ### Using Package Reference .csproj
 ```bash
-<PackageReference Include="Razor.Templating.Core" Version="3.0.0" />
+<PackageReference Include="Razor.Templating.Core" Version="3.1.0" />
 ```
 
 ## Usage - Render View With Layout
